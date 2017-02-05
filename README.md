@@ -1,2 +1,2 @@
-# worksh-1
+# Workshop One
 GitHub Workshop Example
